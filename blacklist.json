@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updated": "2025-12-10",
+  "domains": [
+    "malware-test.com",
+    "phishing-site.xyz",
+    "fake-bank.tk",
+    "scam-site.ml",
+    "virus-download.ga",
+    "suspicious-link.cf",
+    "fraud-alert.gq",
+    "fake-lottery.click",
+    "spam-site.top",
+    "dangerous-url.work",
+    "evil-phishing.com",
+    "fake-banking.net",
+    "scammer-site.info",
+    "trojan-download.ru",
+    "ransomware-site.com"
+  ],
+  "description": "Known malicious domains - Updated from GitHub"
+}
