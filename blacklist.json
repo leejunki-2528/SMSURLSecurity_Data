@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2025-12-10",
+  "version": 3,
+  "updated": "2025-12-16",
   "domains": [
     "malware-test.com",
     "phishing-site.xyz",
@@ -12,11 +12,24 @@
     "fake-lottery.click",
     "spam-site.top",
     "dangerous-url.work",
-    "evil-phishing.com",
-    "fake-banking.net",
-    "scammer-site.info",
-    "trojan-download.ru",
-    "ransomware-site.com"
+    "anydesk.com",
+    "download.anydesk.com",
+    "teamviewer.com",
+    "download.teamviewer.com",
+    "airdroid.com",
+    "web.airdroid.com",
+    "rustdesk.com",
+    "github.com/rustdesk",
+    "realvnc.com",
+    "chrome.google.com/webstore/detail/chrome-remote-desktop",
+    "remotedesktop.google.com",
+    "supremocontrol.com",
+    "ammyy.com",
+    "ultraviewer.net",
+    "dwservice.net",
+    "remoteutilities.com",
+    "tightvnc.com",
+    "turbovnc.org"
   ],
-  "description": "Known malicious domains - Updated from GitHub"
+  "description": "블랙리스트 도메인 목록 (원격 제어 앱 및 다운로드 링크 포함)"
 }
